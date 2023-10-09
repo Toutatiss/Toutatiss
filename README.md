@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Tatiana Kalintsev
+- 👋 Hi, I’m Tat Kalintsev
 - 👀 I’m interested in mechanical design, electrical systems, home automation and systems engineering.
-- 🌱 I’m currently learning to build applications in Swift.
-- 💞️ I’m looking to collaborate on automating houseplant care.
-- 📫 How to reach me: See my past and present projects at www.jankoclock.wordpress.com
+- 📫 How to reach me: See my projects at www.jankoclock.wordpress.com
 
 
